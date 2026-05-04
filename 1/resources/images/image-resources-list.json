@@ -1,0 +1,28 @@
+{
+  "1777865334507": {
+    "originalName": "exb_logo.png",
+    "fileName": "1777865334507.png",
+    "size": 15681,
+    "url": "${appResourceUrl}/images/widget_2/1777865334507.png",
+    "created": 1777865334507,
+    "resourcesPrefix": "images/widget_2",
+    "referredIds": [],
+    "originId": "1777865334507",
+    "fileFormat": "image/png",
+    "originalWidth": 220,
+    "originalHeight": 220
+  },
+  "1777867368162": {
+    "originalName": "agol_banner.png",
+    "fileName": "1777867368162.png",
+    "size": 185578,
+    "url": "${appResourceUrl}/images/widget_7/1777867368162.png",
+    "created": 1777867368162,
+    "resourcesPrefix": "images/widget_7",
+    "referredIds": [],
+    "originId": "1777867368162",
+    "fileFormat": "image/png",
+    "originalWidth": 940,
+    "originalHeight": 576
+  }
+}
